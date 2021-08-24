@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+For the full Dan Q experience, start your journey at **[DanQ.me](https://danq.me/)**. Or for a more-eccentric view, see **[Some Of My Things](https://things.danq.me/)**.
+
 <!--
 **Dan-Q/Dan-Q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
