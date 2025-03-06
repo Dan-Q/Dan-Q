@@ -8,3 +8,5 @@ For the full Dan Q experience, start your journey at **[DanQ.me](https://danq.me
 - 🚀 Gemini: ```gemini://danq.me```
 - 🐘 Mastodon: [@dan@danq.me](https://m.danq.me/@dan)
 - 😄 Pronouns: he/him
+
+<p align="center"><a href="https://danq.me"><img src="./dan-q-88x31.gif" alt="'Dan Q' mini button in the Web 1.0 style, featuring a spinning letter Q."></a></p>
