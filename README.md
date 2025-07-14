@@ -5,7 +5,7 @@
 For the full Dan Q experience, start your journey at **[DanQ.me](https://danq.me/)**. Or for a more-eccentric portfolio, see **[Some Of My Things](https://things.danq.me/)**.
 
 - 🕸️ Web/blog: [DanQ.me](https://danq.me/)
-- 📄 CV/resume: [DanQ.me/cv](https://danq.me/cv/) (I'm seeking my next full-time role! - see also [my LinkedIn profile](https://www.linkedin.com/in/itsdanq/)!)
+- 📄 CV/resume: [DanQ.me/cv](https://danq.me/cv/)
 - 🚀 Gemini: ```gemini://danq.me```
 - 🐘 Mastodon: [@dan@danq.me](https://m.danq.me/@dan)
 - 😄 Pronouns: he/him
