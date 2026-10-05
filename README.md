@@ -15,4 +15,4 @@ For the full Dan Q experience, start your journey at **[DanQ.me](https://danq.me
   - Rescued and resurrected Randal Mundoe's (of XKCD fame) [Geohashing.site](https://geohashing.site/) and made it available for a new generation
   - Blogged virtually nonstop about life, technology, and the space in-between them for 28+ years
 
-<p align="center"><a href="https://danq.me"><img src="./dan-q-88x31.gif" alt="'Dan Q' mini button in the Web 1.0 style, featuring a spinning letter Q."></a></p>
+<p align="center"><a href="https://danq.me"><img src="./dan-q-88x31.gif" alt="'Dan Q' mini button in the Web 1.0 style, featuring a spinning letter Q."></a> <a href="https://danq.me"><img src="./dan-q-88x31-peekaboo-scroller.gif" alt="'Dan Q' mini button in the Web 1.0 style, featuring a spinning letter Q."></a></p>
