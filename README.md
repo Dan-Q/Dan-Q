@@ -1,4 +1,4 @@
-![Picture of Dan Q, a white man with long hair and a goatee, inviting you to click on the links below.](./dan-q-github-header.webp)
+![Animation of Dan Q, a white man with a goatee and blue ponytail, inviting you to click on the links below.](./danaboo-github-header.gif)
 
 ### Links 🔗
 
